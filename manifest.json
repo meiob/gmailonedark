@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Gmail Dark Mode",
+    "version": "1.0",
+    "description": "Apply AtomOne Dark theme to school Gmail.",
+    "permissions": ["activeTab", "scripting"],
+    "content_scripts": [
+      {
+        "matches": ["https://mail.google.com/mail/u/1/*"],
+        "js": ["libs/jquery.min.js", "libs/gmail.js", "content.js"],
+        "css": ["style.css"]
+      }
+    ]
+  }
+  

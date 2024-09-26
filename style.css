@@ -1,0 +1,100 @@
+html.dark-mode body {
+    background-color: #282c34 !important;
+    color: #abb2bf !important;
+  }
+  
+  html.dark-mode a {
+    color: #61afef !important;
+  }
+  
+  html.dark-mode .nH {
+    background-color: #202124 !important;
+    border-color: #5f6368 !important;
+  }
+  
+  html.dark-mode .a3s {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+  }
+  
+  html.dark-mode .zA {
+    border-bottom: 1px solid #444 !important;
+  }
+  
+  html.dark-mode .gb_qe, /* ハンバーガーメニュー */
+  html.dark-mode .gb_Ce, /* 検索ボックス */
+  html.dark-mode input[type="text"] {
+      background-color: #202124 !important;
+      color: #ffffff !important;
+      border-color: #5f6368 !important;
+  }
+  html.dark-mode .gb_Xe, /* ステータスボタン */
+  html.dark-mode .gb_4b, /* ロゴ */
+  html.dark-mode .gb_Db /* アバター部分 */ {
+      background-color: #202124 !important;
+      color: #ffffff !important;
+  }
+  html.dark-mode .TN.bzz.aHS-bnt, /* サイドバーラベル */
+  html.dark-mode .TN.bzz.aHS-bu1, /* サイドバーメニュー */
+  html.dark-mode .aHS-bnu {
+      background-color: #202124 !important;
+      color: #ffffff !important;
+  }
+  html.dark-mode .Cp .a1,
+  html.dark-mode .Cp .zA {
+      background-color: #282c34 !important;
+      border-bottom: 1px solid #444 !important;
+      color: #ffffff !important;
+  }
+  
+  html.dark-mode .y6 {
+      color: #ffffff !important;
+  }
+  html.dark-mode .gb_ld.gb_pd.gb_Hd {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+}
+
+// Compose ボタン
+html.dark-mode .T-I.T-I-KE.L3 {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+    border: 1px solid #5f6368 !important;
+}
+
+// Searchbox
+html.dark-mode .gb_id.gb_cf.bas.aJf {
+    background-color: #202124 !important;
+    color: #ffffff !important;
+}
+
+// サイドバー
+html.dark-mode .brC-aT5-aOt-bsf-Jw {
+    background-color: #202124 !important;
+    color: #ffffff !important;
+}
+html.dark-mode .Yb.dIH7rb.bax {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+    border: 1px solid #5f6368 !important;
+}
+
+html.dark-mode .Yc.bax {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+    border: 1px solid #5f6368 !important;
+}
+
+
+html.dark-mode .gb_Wa.gb_Of.gb_0 {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+    border: 1px solid #5f6368 !important;
+}
+
+// 右のサイドバー
+html.dark-mode .brC-aT5-aOt-Jw {
+    background-color: #282c34 !important;
+    color: #ffffff !important;
+    border: 1px solid #5f6368 !important;
+}
